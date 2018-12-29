@@ -28,10 +28,10 @@ This Expert Advisor (EA) is created solely for portfolio demonstration and
 technical showcase purposes. It contains FAKE/DEMO trading logic and should
 NOT be used for actual trading.
 
-- ⚠️ Contains simulated trading strategies for demonstration only
-- 🚫 Not suitable for real trading environments
-- 📚 Intended for educational and portfolio showcase purposes
-- 💡 Real trading strategies are proprietary and not included
+- Contains simulated trading strategies for demonstration only
+- Not suitable for real trading environments
+- Intended for educational and portfolio showcase purposes
+- Real trading strategies are proprietary and not included
 
 The author assumes no responsibility for any financial losses that may occur
 from the use of this software in live trading environments.
